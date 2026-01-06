@@ -14,3 +14,4 @@
 - [unifreq](https://github.com/unifreq/openwrt_packit)
 - [ophub](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - [P3TERX](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
+- [tuxsu](https://github.com/tuxsu/ActionsBuildOpenWRT)
