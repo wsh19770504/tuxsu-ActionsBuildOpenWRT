@@ -1,5 +1,11 @@
-# ActionsBuildOpenWRT
-Build OpenWRT By Github Actions
+
+              告知
+   私人领地 严禁分享 下载和Fork
+
+   私人领地 严禁分享 下载和Fork
+
+   私人领地 严禁分享 下载和Fork
+
 
 ## Acknowledgments
 - [OpenWrt](https://github.com/openwrt/openwrt)
